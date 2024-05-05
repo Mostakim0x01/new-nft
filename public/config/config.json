@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x52FD9221AAe32C346d092182Bd433Aae03A3BB26",
+  "SCAN_LINK": "https://sepolia-testnet-explorer.mintchain.io/token/0x52FD9221AAe32C346d092182Bd433Aae03A3BB26",
+  "NETWORK": {
+    "NAME": "mintchain",
+    "SYMBOL": "ETH",
+    "ID": 1687
+  },
+  "NFT_NAME": "Nekre",
+  "SYMBOL": "BD",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "MintSwap",
+  "MARKETPLACE_LINK": "https://beta.mintswap.finance/nfts/collection/0x52fd9221aae32c346d092182bd433aae03a3bb26",
+  "SHOW_BACKGROUND": true
+}
